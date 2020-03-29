@@ -1,0 +1,6 @@
+tensorflow==2.2.0rc2
+matplotlib
+seaborn
+imageio
+IPython
+jupyter
